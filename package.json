@@ -1,0 +1,19 @@
+{
+  "name": "cors-bypass-proxy",
+  "version": "1.0.0",
+  "description": "A simple CORS bypass proxy server built with Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=14.x"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  },
+  "keywords": ["cors", "proxy", "express", "bypass"],
+  "author": "Your Name",
+  "license": "MIT"
+}
